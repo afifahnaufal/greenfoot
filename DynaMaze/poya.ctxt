@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=poya
+comment1.params=
+comment1.target=boolean\ isOnGround()
+comment2.params=
+comment2.target=void\ jump()
+comment3.params=
+comment3.target=void\ tembok()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
